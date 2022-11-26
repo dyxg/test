@@ -6,4 +6,4 @@ test pull
 
 test merge2
 
-test branch main
+test branch
